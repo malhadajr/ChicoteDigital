@@ -1,0 +1,9 @@
+# saída do build (o .exe vai para os Releases do GitHub, não para o repositório)
+dist/
+build/
+__pycache__/
+*.pyc
+
+# arquivos locais
+chicote_erro.log
+chicote_estalo.wav
